@@ -9,6 +9,6 @@ The below figures show some of the results of testing the model on each UFC even
 
 At present, for this period, the model is less accurate than choosing the bookies favourite in each fight, however, doing this is clearly not a profitable strategy anyway. The model is able to often correctly identify and predict underdogs etc. 
 
-![Plot of model accuracy for the period 2022-08-01 to 2023-08-01](./figs/Acc.png)
+![Plot of model accuracy for the period 2022-08-01 to 2023-08-01](./figs/Acc.jpeg)
 
-![Distribution of returns for the period 2022-08-01 to 2023-08-01](./figs/dist.png)
+![Distribution of returns for the period 2022-08-01 to 2023-08-01](./figs/dist.jpeg)
